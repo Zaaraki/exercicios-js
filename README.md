@@ -1,2 +1,2 @@
 # exercicios-js
-Exercícios de JavaScript
+Este repositório contém estudos da linguagem javaScript
